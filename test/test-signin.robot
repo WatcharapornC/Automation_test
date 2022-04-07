@@ -5,7 +5,7 @@ Library    Selenium2Library
 
 
 *** Variables ***
-${url_signin}     https://chananchida-srithongdee.github.io/Automation-Test/signin.html
+${url_signin}     https://watcharapornc.github.io/Automation_test/signin.html
 ${textbox_username}      //*[@id="txt_username"]
 ${textbox_password}      //*[@id="txt_password"]
 ${button_signin}      //*[@id="btn_signin"]
