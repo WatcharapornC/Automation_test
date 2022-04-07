@@ -1,14 +1,5 @@
 # Web
 
-go to https://spd-ce.github.io/fortesting/signin.html
+go to https://watcharapornc.github.io/Automation_test/signin.html
 
-# Testing
 
-## Setup
-- install python 3
-- pip install robotframework
-- pip install robotframework-selenium2library
-- download chrome driver from https://sites.google.com/chromium.org/driver/
-
-## Test
-- robot test/test-signin.robot
